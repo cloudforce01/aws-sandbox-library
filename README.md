@@ -6,3 +6,11 @@ Welcome to the **AWS Sandbox Library** repository! This collection showcases var
 - [Labs](#labs)
 - [Projects](#projects)
  
+## Concepts
+- Access a comprehensive collection of concepts in the **concepts/** directory for in-depth insights.
+
+## Labs
+- Dive into hands-on labs that illustrate the practical implementation of these concepts.
+
+## Projects
+- Explore completed projects that showcase real-world applications and reflect problem-solving expertise in cloud computing.
