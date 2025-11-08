@@ -2,7 +2,7 @@ Welcome to the **AWS Sandbox Library** repository! This collection showcases var
 ## Table of Contents
 
 - [Concepts](#concepts)
-  - [01: Overview of computing](concepts/overview-of-computing.md)
+  - [01: Overview of computing](concepts/01-overview-of-computing.md)
 - [Labs](#labs)
 - [Projects](#projects)
  
